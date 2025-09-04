@@ -9,5 +9,5 @@ https://www.thingiverse.com/thing:7135971
 this set complements the basic set which includes mounting frames and more.
 https://www.thingiverse.com/thing:7019983
 
-![](images/GOPR0571.JPG)
+![](image/GOPR0571.JPG)
 [![Hits](https://hits.sh/github.com/MilesBDyson/sh1106-oled-SGU-Elders-Clock.svg)](https://hits.sh/github.com/MilesBDyson/sh1106-oled-SGU-Elders-Clock/)
